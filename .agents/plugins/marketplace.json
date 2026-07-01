@@ -1,0 +1,21 @@
+{
+  "name": "x1-marketplace",
+  "interface": {
+    "displayName": "X1 Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "rule-system",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/doudouHubs/codex-rule-system.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
