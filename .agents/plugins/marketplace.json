@@ -16,6 +16,19 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "ace-tool",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/doudouHubs/ace-tool-windows.git",
+        "ref": "v0.3.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
