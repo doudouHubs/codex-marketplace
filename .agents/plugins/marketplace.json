@@ -22,7 +22,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/doudouHubs/ace-tool-windows.git",
-        "ref": "v0.3.0"
+        "ref": "v0.3.1"
       },
       "policy": {
         "installation": "AVAILABLE",
